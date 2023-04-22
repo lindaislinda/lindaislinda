@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ## 😶‍🌫️ Networking
-- I am currently looking for a summer 2023 internship
+- I am currently looking for a summer 2024 internship
 - I am also looking to collaborate on web development projects
 - Connect with me down below!
 
