@@ -2,11 +2,11 @@
 
 ## 💗👉😊 About Me
 
-- I am Linda Nguyen, a **Computer Science sophomore** studying at the University of South Florida! 
-- I am most skilled in Full Stack Web Development
-- I am interested in learning more about Web3 and Cloud Development
+- I am Linda Nguyen, a **Computer Science Junior** studying at the University of South Florida! 
+- I am most skilled in Full Stack Web Development, DevOps, and Cloud
+- I am interested in learning more about Web3
 
-😎 Outside the tech world, I enjoy swimming, cooking, and hanging out with my friends.
+😎 Outside the tech world, I enjoy swimming, cooking, and hanging out with friends.
 
 ## 🛠️ Skills
  
