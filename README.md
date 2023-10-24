@@ -27,9 +27,6 @@
 - I am also looking to collaborate on web development projects
 - Connect with me down below!
 
-## 📈 Stats
-[![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lindaislinda)](https://github.com/lindaislinda/github-readme-stats)
-
 ## 📲🤙Connect with me!
 GitHub: https://github.com/lindaislinda  
 LinkedIn: https://www.linkedin.com/in/linda--nguyen   
