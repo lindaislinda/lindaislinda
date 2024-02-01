@@ -2,7 +2,7 @@
 
 ## 💗👉😊 About Me
 
-- I am Linda Nguyen, a **Computer Science Junior** studying at the University of South Florida! 
+- I am Linda (Nguyen) Nguyen, a **Computer Science Junior** studying at the University of South Florida! 
 - I am most skilled in Full Stack Web Development, DevOps, and Cloud
 - I am interested in learning more about Web3
 
