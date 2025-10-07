@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Linda Nguyen  
 
 💻 **Software Engineer @ Microsoft Azure** | Prev **Apple** & **Dell Technologies**  
-🎓 **B.S. Computer Science @ University of South Florida (GPA: 3.96 / 4.0)**  
+🎓 **B.S. Computer Science @ University of South Florida (GPA: 3.97 / 4.0)**  
 🌐 [lindaislinda.com](https://lindaislinda.com) | [LinkedIn](https://www.linkedin.com/in/linda--nguyen)  
 
 ---
