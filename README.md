@@ -27,7 +27,7 @@ When I’m not coding, you’ll find me at the gym, discovering new coffee shops
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=csharp)
+![C #](https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=csharp)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
